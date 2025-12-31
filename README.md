@@ -1,3 +1,5 @@
+<img width="855" height="855" alt="Screenshot 2025-12-31 191604" src="https://github.com/user-attachments/assets/f0272e00-ec1e-4d63-97ac-89dd3190cd9b" />
+<img width="1863" height="870" alt="Screenshot 2025-12-31 191506" src="https://github.com/user-attachments/assets/6e49d200-cd8e-4163-a1e1-0e5c89899cf9" />
 # 📝 Notes App (React + Tailwind CSS)
 
 A simple and responsive Notes application built using **React** and **Tailwind CSS**.  
